@@ -56,7 +56,6 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas pela Unopar**. Minha tr
 ---
 
 <div align="center">
-  <h3>Focado em transformar lógica em experiências incríveis. 🚀</h3>
+Focado em transformar lógica em experiências incríveis. 🚀
 </div>
-
 
